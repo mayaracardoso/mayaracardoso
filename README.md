@@ -1,4 +1,6 @@
-Eu sou a Mayara! Saiba um pouco mais sobre mim:
+### Olá! Eu sou a Mayara! 
+
+Conheça um pouco mais sobre mim:
 
 - 🔭 Trabalho com Desenvolvimento Web desde 2016
 - 🌱 Sou formada em Análise e Desenvolvimento de Sistemas pelo IFSP
