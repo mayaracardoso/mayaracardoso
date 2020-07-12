@@ -1,4 +1,4 @@
-### Olá! Eu sou a Mayara! 
+### Olá! Eu sou a Mayara! 👋
 
 Conheça um pouco mais sobre mim:
 
